@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou o Isaac 😘
+### Olá! Eu sou Isaac 😘
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im_notisaac?igshid=MzRlODBiNWFlZA==)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]( https://x.com/imnot__isaac?t=mWhlscqJjltgFAICH72JhQ&s=08)
